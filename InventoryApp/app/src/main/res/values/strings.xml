@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="computer">computer</string>
+    <string name="phone">phone</string>
+    <string name="TV">TV</string>
+    <string name="washer">washer</string>
+    <string name="display">display</string>
+    <string name="insert">insert</string>
+</resources>
+
